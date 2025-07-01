@@ -2,7 +2,7 @@
 ### Memory And Neural Token Recovery Architecture
 
 **Author:** © Maksim Orlov (Russia)  
-**Contact:** Lin-air@mail.ru | t.me/kurwa_bo  
+**Contact:** orlovmx28@gmail.com | t.me/kurwa_bo  
 **Date:** June 25, 2025  
 **License:** All rights reserved. Use, copying or modification without written permission prohibited.
 
